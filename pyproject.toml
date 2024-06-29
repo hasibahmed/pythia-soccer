@@ -6,11 +6,15 @@ authors = ["Hasib Ahmed <hasib@hasib-ahmed.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
-pandas = "^2.2.2"
-matplotlib = "^3.9.0"
-numpy = "^2.0.0"
+python = ">=3.10,<3.11"
+numpy = "<1.22.2"
+pandas ="<2"
 ipykernel = "^6.29.4"
+scikit-learn = "^1.5.0"
+theano = "^1.0.5"
+scipy = "^1.7.3"
+pymc3 = "^3.11.6"
+matplotlib = "<3.9"
 
 
 [build-system]
