@@ -8,7 +8,8 @@ The package dependencies are maintained by `poetry`. To install all the packages
 
 # Task discussion & explanation
 
-### Season 1: implemented in `01-S1-analysis.ipynb`
+### Season 1: 
+implemented in `01-S1-analysis.ipynb`
 
 ### Season 2 Predictions:
 
